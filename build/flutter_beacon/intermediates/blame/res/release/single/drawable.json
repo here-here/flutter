@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\Steven\\Desktop\\attend_here\\build\\flutter_beacon\\intermediates\\res\\merged\\release\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\Steven\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0.aar\\1bc69665ecde7bdf053eaebb540f8397\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Steven\\Desktop\\attend_here\\build\\flutter_beacon\\intermediates\\res\\merged\\release\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\Steven\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0.aar\\1bc69665ecde7bdf053eaebb540f8397\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Steven\\Desktop\\attend_here\\build\\flutter_beacon\\intermediates\\res\\merged\\release\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\Steven\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0.aar\\1bc69665ecde7bdf053eaebb540f8397\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "C:\\Users\\Steven\\Desktop\\attend_here\\build\\flutter_beacon\\intermediates\\res\\merged\\release\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\Steven\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0.aar\\1bc69665ecde7bdf053eaebb540f8397\\res\\drawable\\notification_tile_bg.xml"
+    }
+]

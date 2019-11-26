@@ -1,0 +1,258 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Steven\Desktop\work\attend_here\android\app\src\main\AndroidManifest.xml:1:1-33:12
+INJECTED from C:\Users\Steven\Desktop\work\attend_here\android\app\src\main\AndroidManifest.xml:1:1-33:12
+INJECTED from C:\Users\Steven\Desktop\work\attend_here\android\app\src\main\AndroidManifest.xml:1:1-33:12
+INJECTED from C:\Users\Steven\Desktop\work\attend_here\android\app\src\main\AndroidManifest.xml:1:1-33:12
+MERGED from C:\Users\Steven\Desktop\work\attend_here\android\app\src\main\AndroidManifest.xml:1:1-33:12
+MERGED from [:flutter_beacon] C:\Users\Steven\Desktop\work\attend_here\build\flutter_beacon\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:2:1-7:12
+MERGED from [:device_info] C:\Users\Steven\Desktop\work\attend_here\build\device_info\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Steven\.gradle\caches\transforms-1\files-1.1\legacy-support-v4-1.0.0.aar\f9ec4fe3cc5c7451395347941a06f519\AndroidManifest.xml:17:1-22:12
+MERGED from [org.altbeacon:android-beacon-library:2.16.3] C:\Users\Steven\.gradle\caches\transforms-1\files-1.1\jetified-android-beacon-library-2.16.3.aar\3e695de137654ae843cfdd3b3650ad25\AndroidManifest.xml:2:1-58:12
+MERGED from [androidx.media:media:1.0.0] C:\Users\Steven\.gradle\caches\transforms-1\files-1.1\media-1.0.0.aar\d1d1742c764a223c4e92ed00a6584bd3\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\Steven\.gradle\caches\transforms-1\files-1.1\fragment-1.0.0.aar\d43b55e5672f1fb474ab349ce0d96cd0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Steven\.gradle\caches\transforms-1\files-1.1\legacy-support-core-ui-1.0.0.aar\171d0fd740f5aea428c14d532fc54ae4\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Steven\.gradle\caches\transforms-1\files-1.1\legacy-support-core-utils-1.0.0.aar\f5b57a67090c95d6793ca1d3a81edcc3\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Steven\.gradle\caches\transforms-1\files-1.1\loader-1.0.0.aar\6ceecb7d3894aa6fbe29ec8b823cf278\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Steven\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\4f60d9cc3adc50e08c5e4d4bf3663ec1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Steven\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-1.0.0.aar\a43dddb0ad7463e7e3ebdb3a475486bb\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Steven\.gradle\caches\transforms-1\files-1.1\drawerlayout-1.0.0.aar\d5e39c711286c6eff7bd7c073f8c9851\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Steven\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-1.0.0.aar\857c7170a4838cb89b1bd36c622bcb8e\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Steven\.gradle\caches\transforms-1\files-1.1\customview-1.0.0.aar\6a68417034186e6a5fd6699077cd1e79\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Steven\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-1.0.0.aar\d053fd9f2e91678150fcdfeb42b9a28f\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Steven\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-1.0.0.aar\730de6cb6216483ac808d8d394ea9a2e\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.0] C:\Users\Steven\.gradle\caches\transforms-1\files-1.1\core-1.0.0.aar\1bc69665ecde7bdf053eaebb540f8397\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Steven\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0.aar\b3b59a171e60ada0ed1f8b116a6fc4c0\AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\Steven\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.0.0.aar\940b7e2ce7c1fb7b2d082fbea994354d\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Steven\.gradle\caches\transforms-1\files-1.1\documentfile-1.0.0.aar\59593f3916dddf24fa30241285c27cdc\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Steven\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-1.0.0.aar\1c3d075fd78d4e8843d359e683a5e65b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\Steven\.gradle\caches\transforms-1\files-1.1\print-1.0.0.aar\bb8ed51b788b579712ac909155510ac4\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Steven\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0.aar\2cb05854d03a4ae4b63088e4695c3949\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Steven\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0.aar\429a8800364a6ff474563d54afa02729\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\Steven\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.0.0.aar\b2f256f2f3e5fe5fd263403a90f89b70\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Steven\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-2.0.0.aar\44f63da4f942214753765f87bd29052f\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Steven\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0.aar\2fab6f53b75ad6509bb51ac8bf7e4154\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Steven\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0.aar\e9c74c1d97e04d7033cc1dc6838916ad\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Steven\Desktop\work\attend_here\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+INJECTED from C:\Users\Steven\Desktop\work\attend_here\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+INJECTED from C:\Users\Steven\Desktop\work\attend_here\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+	package
+		ADDED from C:\Users\Steven\Desktop\work\attend_here\android\app\src\main\AndroidManifest.xml:2:5-41
+		INJECTED from C:\Users\Steven\Desktop\work\attend_here\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Steven\Desktop\work\attend_here\android\app\src\debug\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Steven\Desktop\work\attend_here\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Steven\Desktop\work\attend_here\android\app\src\main\AndroidManifest.xml:1:1-33:12
+		INJECTED from C:\Users\Steven\Desktop\work\attend_here\android\app\src\debug\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Steven\Desktop\work\attend_here\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Steven\Desktop\work\attend_here\android\app\src\main\AndroidManifest.xml:1:1-33:12
+		INJECTED from C:\Users\Steven\Desktop\work\attend_here\android\app\src\debug\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Steven\Desktop\work\attend_here\android\app\src\main\AndroidManifest.xml:1:11-69
+application
+ADDED from C:\Users\Steven\Desktop\work\attend_here\android\app\src\main\AndroidManifest.xml:9:5-32:19
+MERGED from [org.altbeacon:android-beacon-library:2.16.3] C:\Users\Steven\.gradle\caches\transforms-1\files-1.1\jetified-android-beacon-library-2.16.3.aar\3e695de137654ae843cfdd3b3650ad25\AndroidManifest.xml:20:5-56:19
+MERGED from [org.altbeacon:android-beacon-library:2.16.3] C:\Users\Steven\.gradle\caches\transforms-1\files-1.1\jetified-android-beacon-library-2.16.3.aar\3e695de137654ae843cfdd3b3650ad25\AndroidManifest.xml:20:5-56:19
+MERGED from [androidx.core:core:1.0.0] C:\Users\Steven\.gradle\caches\transforms-1\files-1.1\core-1.0.0.aar\1bc69665ecde7bdf053eaebb540f8397\AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.0] C:\Users\Steven\.gradle\caches\transforms-1\files-1.1\core-1.0.0.aar\1bc69665ecde7bdf053eaebb540f8397\AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Steven\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0.aar\b3b59a171e60ada0ed1f8b116a6fc4c0\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Steven\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0.aar\b3b59a171e60ada0ed1f8b116a6fc4c0\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.0] C:\Users\Steven\.gradle\caches\transforms-1\files-1.1\core-1.0.0.aar\1bc69665ecde7bdf053eaebb540f8397\AndroidManifest.xml:22:18-86
+	android:label
+		ADDED from C:\Users\Steven\Desktop\work\attend_here\android\app\src\main\AndroidManifest.xml:11:9-36
+	android:icon
+		ADDED from C:\Users\Steven\Desktop\work\attend_here\android\app\src\main\AndroidManifest.xml:12:9-43
+	android:name
+		ADDED from C:\Users\Steven\Desktop\work\attend_here\android\app\src\main\AndroidManifest.xml:10:9-57
+activity#com.attendhere.attend_here.MainActivity
+ADDED from C:\Users\Steven\Desktop\work\attend_here\android\app\src\main\AndroidManifest.xml:13:9-31:20
+	android:launchMode
+		ADDED from C:\Users\Steven\Desktop\work\attend_here\android\app\src\main\AndroidManifest.xml:15:13-43
+	android:hardwareAccelerated
+		ADDED from C:\Users\Steven\Desktop\work\attend_here\android\app\src\main\AndroidManifest.xml:18:13-47
+	android:windowSoftInputMode
+		ADDED from C:\Users\Steven\Desktop\work\attend_here\android\app\src\main\AndroidManifest.xml:19:13-55
+	android:configChanges
+		ADDED from C:\Users\Steven\Desktop\work\attend_here\android\app\src\main\AndroidManifest.xml:17:13-144
+	android:theme
+		ADDED from C:\Users\Steven\Desktop\work\attend_here\android\app\src\main\AndroidManifest.xml:16:13-47
+	android:name
+		ADDED from C:\Users\Steven\Desktop\work\attend_here\android\app\src\main\AndroidManifest.xml:14:13-41
+meta-data#io.flutter.app.android.SplashScreenUntilFirstFrame
+ADDED from C:\Users\Steven\Desktop\work\attend_here\android\app\src\main\AndroidManifest.xml:24:13-26:40
+	android:value
+		ADDED from C:\Users\Steven\Desktop\work\attend_here\android\app\src\main\AndroidManifest.xml:26:17-37
+	android:name
+		ADDED from C:\Users\Steven\Desktop\work\attend_here\android\app\src\main\AndroidManifest.xml:25:17-82
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Steven\Desktop\work\attend_here\android\app\src\main\AndroidManifest.xml:27:13-30:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Steven\Desktop\work\attend_here\android\app\src\main\AndroidManifest.xml:28:17-68
+	android:name
+		ADDED from C:\Users\Steven\Desktop\work\attend_here\android\app\src\main\AndroidManifest.xml:28:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Steven\Desktop\work\attend_here\android\app\src\main\AndroidManifest.xml:29:17-76
+	android:name
+		ADDED from C:\Users\Steven\Desktop\work\attend_here\android\app\src\main\AndroidManifest.xml:29:27-74
+uses-sdk
+INJECTED from C:\Users\Steven\Desktop\work\attend_here\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Steven\Desktop\work\attend_here\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Steven\Desktop\work\attend_here\android\app\src\main\AndroidManifest.xml
+MERGED from [:flutter_beacon] C:\Users\Steven\Desktop\work\attend_here\build\flutter_beacon\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_beacon] C:\Users\Steven\Desktop\work\attend_here\build\flutter_beacon\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:5:5-44
+MERGED from [:device_info] C:\Users\Steven\Desktop\work\attend_here\build\device_info\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:5:5-44
+MERGED from [:device_info] C:\Users\Steven\Desktop\work\attend_here\build\device_info\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:5:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Steven\.gradle\caches\transforms-1\files-1.1\legacy-support-v4-1.0.0.aar\f9ec4fe3cc5c7451395347941a06f519\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Steven\.gradle\caches\transforms-1\files-1.1\legacy-support-v4-1.0.0.aar\f9ec4fe3cc5c7451395347941a06f519\AndroidManifest.xml:20:5-44
+MERGED from [org.altbeacon:android-beacon-library:2.16.3] C:\Users\Steven\.gradle\caches\transforms-1\files-1.1\jetified-android-beacon-library-2.16.3.aar\3e695de137654ae843cfdd3b3650ad25\AndroidManifest.xml:7:5-9:41
+MERGED from [org.altbeacon:android-beacon-library:2.16.3] C:\Users\Steven\.gradle\caches\transforms-1\files-1.1\jetified-android-beacon-library-2.16.3.aar\3e695de137654ae843cfdd3b3650ad25\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.media:media:1.0.0] C:\Users\Steven\.gradle\caches\transforms-1\files-1.1\media-1.0.0.aar\d1d1742c764a223c4e92ed00a6584bd3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\Steven\.gradle\caches\transforms-1\files-1.1\media-1.0.0.aar\d1d1742c764a223c4e92ed00a6584bd3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\Steven\.gradle\caches\transforms-1\files-1.1\fragment-1.0.0.aar\d43b55e5672f1fb474ab349ce0d96cd0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\Steven\.gradle\caches\transforms-1\files-1.1\fragment-1.0.0.aar\d43b55e5672f1fb474ab349ce0d96cd0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Steven\.gradle\caches\transforms-1\files-1.1\legacy-support-core-ui-1.0.0.aar\171d0fd740f5aea428c14d532fc54ae4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Steven\.gradle\caches\transforms-1\files-1.1\legacy-support-core-ui-1.0.0.aar\171d0fd740f5aea428c14d532fc54ae4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Steven\.gradle\caches\transforms-1\files-1.1\legacy-support-core-utils-1.0.0.aar\f5b57a67090c95d6793ca1d3a81edcc3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Steven\.gradle\caches\transforms-1\files-1.1\legacy-support-core-utils-1.0.0.aar\f5b57a67090c95d6793ca1d3a81edcc3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Steven\.gradle\caches\transforms-1\files-1.1\loader-1.0.0.aar\6ceecb7d3894aa6fbe29ec8b823cf278\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Steven\.gradle\caches\transforms-1\files-1.1\loader-1.0.0.aar\6ceecb7d3894aa6fbe29ec8b823cf278\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Steven\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\4f60d9cc3adc50e08c5e4d4bf3663ec1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Steven\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\4f60d9cc3adc50e08c5e4d4bf3663ec1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Steven\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-1.0.0.aar\a43dddb0ad7463e7e3ebdb3a475486bb\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Steven\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-1.0.0.aar\a43dddb0ad7463e7e3ebdb3a475486bb\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Steven\.gradle\caches\transforms-1\files-1.1\drawerlayout-1.0.0.aar\d5e39c711286c6eff7bd7c073f8c9851\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Steven\.gradle\caches\transforms-1\files-1.1\drawerlayout-1.0.0.aar\d5e39c711286c6eff7bd7c073f8c9851\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Steven\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-1.0.0.aar\857c7170a4838cb89b1bd36c622bcb8e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Steven\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-1.0.0.aar\857c7170a4838cb89b1bd36c622bcb8e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Steven\.gradle\caches\transforms-1\files-1.1\customview-1.0.0.aar\6a68417034186e6a5fd6699077cd1e79\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Steven\.gradle\caches\transforms-1\files-1.1\customview-1.0.0.aar\6a68417034186e6a5fd6699077cd1e79\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Steven\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-1.0.0.aar\d053fd9f2e91678150fcdfeb42b9a28f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Steven\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-1.0.0.aar\d053fd9f2e91678150fcdfeb42b9a28f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Steven\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-1.0.0.aar\730de6cb6216483ac808d8d394ea9a2e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Steven\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-1.0.0.aar\730de6cb6216483ac808d8d394ea9a2e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] C:\Users\Steven\.gradle\caches\transforms-1\files-1.1\core-1.0.0.aar\1bc69665ecde7bdf053eaebb540f8397\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] C:\Users\Steven\.gradle\caches\transforms-1\files-1.1\core-1.0.0.aar\1bc69665ecde7bdf053eaebb540f8397\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Steven\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0.aar\b3b59a171e60ada0ed1f8b116a6fc4c0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Steven\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0.aar\b3b59a171e60ada0ed1f8b116a6fc4c0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\Steven\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.0.0.aar\940b7e2ce7c1fb7b2d082fbea994354d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\Steven\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.0.0.aar\940b7e2ce7c1fb7b2d082fbea994354d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Steven\.gradle\caches\transforms-1\files-1.1\documentfile-1.0.0.aar\59593f3916dddf24fa30241285c27cdc\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Steven\.gradle\caches\transforms-1\files-1.1\documentfile-1.0.0.aar\59593f3916dddf24fa30241285c27cdc\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Steven\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-1.0.0.aar\1c3d075fd78d4e8843d359e683a5e65b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Steven\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-1.0.0.aar\1c3d075fd78d4e8843d359e683a5e65b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Steven\.gradle\caches\transforms-1\files-1.1\print-1.0.0.aar\bb8ed51b788b579712ac909155510ac4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Steven\.gradle\caches\transforms-1\files-1.1\print-1.0.0.aar\bb8ed51b788b579712ac909155510ac4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Steven\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0.aar\2cb05854d03a4ae4b63088e4695c3949\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Steven\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0.aar\2cb05854d03a4ae4b63088e4695c3949\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Steven\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0.aar\429a8800364a6ff474563d54afa02729\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Steven\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0.aar\429a8800364a6ff474563d54afa02729\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\Steven\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.0.0.aar\b2f256f2f3e5fe5fd263403a90f89b70\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\Steven\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.0.0.aar\b2f256f2f3e5fe5fd263403a90f89b70\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Steven\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-2.0.0.aar\44f63da4f942214753765f87bd29052f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Steven\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-2.0.0.aar\44f63da4f942214753765f87bd29052f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Steven\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0.aar\2fab6f53b75ad6509bb51ac8bf7e4154\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Steven\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0.aar\2fab6f53b75ad6509bb51ac8bf7e4154\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Steven\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0.aar\e9c74c1d97e04d7033cc1dc6838916ad\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Steven\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0.aar\e9c74c1d97e04d7033cc1dc6838916ad\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Steven\Desktop\work\attend_here\android\app\src\debug\AndroidManifest.xml
+INJECTED from C:\Users\Steven\Desktop\work\attend_here\android\app\src\debug\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Steven\Desktop\work\attend_here\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Steven\Desktop\work\attend_here\android\app\src\debug\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Steven\Desktop\work\attend_here\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Steven\Desktop\work\attend_here\android\app\src\debug\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Steven\Desktop\work\attend_here\android\app\src\debug\AndroidManifest.xml:6:5-66
+	android:name
+		ADDED from C:\Users\Steven\Desktop\work\attend_here\android\app\src\debug\AndroidManifest.xml:6:22-64
+uses-permission#android.permission.BLUETOOTH
+ADDED from [org.altbeacon:android-beacon-library:2.16.3] C:\Users\Steven\.gradle\caches\transforms-1\files-1.1\jetified-android-beacon-library-2.16.3.aar\3e695de137654ae843cfdd3b3650ad25\AndroidManifest.xml:11:5-13:36
+	android:required
+		ADDED from [org.altbeacon:android-beacon-library:2.16.3] C:\Users\Steven\.gradle\caches\transforms-1\files-1.1\jetified-android-beacon-library-2.16.3.aar\3e695de137654ae843cfdd3b3650ad25\AndroidManifest.xml:13:9-33
+	android:name
+		ADDED from [org.altbeacon:android-beacon-library:2.16.3] C:\Users\Steven\.gradle\caches\transforms-1\files-1.1\jetified-android-beacon-library-2.16.3.aar\3e695de137654ae843cfdd3b3650ad25\AndroidManifest.xml:12:9-52
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from [org.altbeacon:android-beacon-library:2.16.3] C:\Users\Steven\.gradle\caches\transforms-1\files-1.1\jetified-android-beacon-library-2.16.3.aar\3e695de137654ae843cfdd3b3650ad25\AndroidManifest.xml:14:5-16:36
+	android:required
+		ADDED from [org.altbeacon:android-beacon-library:2.16.3] C:\Users\Steven\.gradle\caches\transforms-1\files-1.1\jetified-android-beacon-library-2.16.3.aar\3e695de137654ae843cfdd3b3650ad25\AndroidManifest.xml:16:9-33
+	android:name
+		ADDED from [org.altbeacon:android-beacon-library:2.16.3] C:\Users\Steven\.gradle\caches\transforms-1\files-1.1\jetified-android-beacon-library-2.16.3.aar\3e695de137654ae843cfdd3b3650ad25\AndroidManifest.xml:15:9-58
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from [org.altbeacon:android-beacon-library:2.16.3] C:\Users\Steven\.gradle\caches\transforms-1\files-1.1\jetified-android-beacon-library-2.16.3.aar\3e695de137654ae843cfdd3b3650ad25\AndroidManifest.xml:17:5-81
+	android:name
+		ADDED from [org.altbeacon:android-beacon-library:2.16.3] C:\Users\Steven\.gradle\caches\transforms-1\files-1.1\jetified-android-beacon-library-2.16.3.aar\3e695de137654ae843cfdd3b3650ad25\AndroidManifest.xml:17:22-78
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from [org.altbeacon:android-beacon-library:2.16.3] C:\Users\Steven\.gradle\caches\transforms-1\files-1.1\jetified-android-beacon-library-2.16.3.aar\3e695de137654ae843cfdd3b3650ad25\AndroidManifest.xml:18:5-81
+	android:name
+		ADDED from [org.altbeacon:android-beacon-library:2.16.3] C:\Users\Steven\.gradle\caches\transforms-1\files-1.1\jetified-android-beacon-library-2.16.3.aar\3e695de137654ae843cfdd3b3650ad25\AndroidManifest.xml:18:22-78
+receiver#org.altbeacon.beacon.startup.StartupBroadcastReceiver
+ADDED from [org.altbeacon:android-beacon-library:2.16.3] C:\Users\Steven\.gradle\caches\transforms-1\files-1.1\jetified-android-beacon-library-2.16.3.aar\3e695de137654ae843cfdd3b3650ad25\AndroidManifest.xml:21:9-27:20
+	android:name
+		ADDED from [org.altbeacon:android-beacon-library:2.16.3] C:\Users\Steven\.gradle\caches\transforms-1\files-1.1\jetified-android-beacon-library-2.16.3.aar\3e695de137654ae843cfdd3b3650ad25\AndroidManifest.xml:21:19-87
+intent-filter#action:name:android.intent.action.ACTION_POWER_CONNECTED+action:name:android.intent.action.ACTION_POWER_DISCONNECTED+action:name:android.intent.action.BOOT_COMPLETED
+ADDED from [org.altbeacon:android-beacon-library:2.16.3] C:\Users\Steven\.gradle\caches\transforms-1\files-1.1\jetified-android-beacon-library-2.16.3.aar\3e695de137654ae843cfdd3b3650ad25\AndroidManifest.xml:22:13-26:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from [org.altbeacon:android-beacon-library:2.16.3] C:\Users\Steven\.gradle\caches\transforms-1\files-1.1\jetified-android-beacon-library-2.16.3.aar\3e695de137654ae843cfdd3b3650ad25\AndroidManifest.xml:23:17-79
+	android:name
+		ADDED from [org.altbeacon:android-beacon-library:2.16.3] C:\Users\Steven\.gradle\caches\transforms-1\files-1.1\jetified-android-beacon-library-2.16.3.aar\3e695de137654ae843cfdd3b3650ad25\AndroidManifest.xml:23:25-76
+action#android.intent.action.ACTION_POWER_CONNECTED
+ADDED from [org.altbeacon:android-beacon-library:2.16.3] C:\Users\Steven\.gradle\caches\transforms-1\files-1.1\jetified-android-beacon-library-2.16.3.aar\3e695de137654ae843cfdd3b3650ad25\AndroidManifest.xml:24:17-87
+	android:name
+		ADDED from [org.altbeacon:android-beacon-library:2.16.3] C:\Users\Steven\.gradle\caches\transforms-1\files-1.1\jetified-android-beacon-library-2.16.3.aar\3e695de137654ae843cfdd3b3650ad25\AndroidManifest.xml:24:25-84
+action#android.intent.action.ACTION_POWER_DISCONNECTED
+ADDED from [org.altbeacon:android-beacon-library:2.16.3] C:\Users\Steven\.gradle\caches\transforms-1\files-1.1\jetified-android-beacon-library-2.16.3.aar\3e695de137654ae843cfdd3b3650ad25\AndroidManifest.xml:25:17-90
+	android:name
+		ADDED from [org.altbeacon:android-beacon-library:2.16.3] C:\Users\Steven\.gradle\caches\transforms-1\files-1.1\jetified-android-beacon-library-2.16.3.aar\3e695de137654ae843cfdd3b3650ad25\AndroidManifest.xml:25:25-87
+service#org.altbeacon.beacon.service.BeaconService
+ADDED from [org.altbeacon:android-beacon-library:2.16.3] C:\Users\Steven\.gradle\caches\transforms-1\files-1.1\jetified-android-beacon-library-2.16.3.aar\3e695de137654ae843cfdd3b3650ad25\AndroidManifest.xml:29:9-34:38
+	android:enabled
+		ADDED from [org.altbeacon:android-beacon-library:2.16.3] C:\Users\Steven\.gradle\caches\transforms-1\files-1.1\jetified-android-beacon-library-2.16.3.aar\3e695de137654ae843cfdd3b3650ad25\AndroidManifest.xml:31:13-35
+	android:label
+		ADDED from [org.altbeacon:android-beacon-library:2.16.3] C:\Users\Steven\.gradle\caches\transforms-1\files-1.1\jetified-android-beacon-library-2.16.3.aar\3e695de137654ae843cfdd3b3650ad25\AndroidManifest.xml:34:13-35
+	android:exported
+		ADDED from [org.altbeacon:android-beacon-library:2.16.3] C:\Users\Steven\.gradle\caches\transforms-1\files-1.1\jetified-android-beacon-library-2.16.3.aar\3e695de137654ae843cfdd3b3650ad25\AndroidManifest.xml:32:13-37
+	android:isolatedProcess
+		ADDED from [org.altbeacon:android-beacon-library:2.16.3] C:\Users\Steven\.gradle\caches\transforms-1\files-1.1\jetified-android-beacon-library-2.16.3.aar\3e695de137654ae843cfdd3b3650ad25\AndroidManifest.xml:33:13-44
+	android:name
+		ADDED from [org.altbeacon:android-beacon-library:2.16.3] C:\Users\Steven\.gradle\caches\transforms-1\files-1.1\jetified-android-beacon-library-2.16.3.aar\3e695de137654ae843cfdd3b3650ad25\AndroidManifest.xml:30:13-70
+service#org.altbeacon.beacon.BeaconIntentProcessor
+ADDED from [org.altbeacon:android-beacon-library:2.16.3] C:\Users\Steven\.gradle\caches\transforms-1\files-1.1\jetified-android-beacon-library-2.16.3.aar\3e695de137654ae843cfdd3b3650ad25\AndroidManifest.xml:35:9-38:40
+	android:enabled
+		ADDED from [org.altbeacon:android-beacon-library:2.16.3] C:\Users\Steven\.gradle\caches\transforms-1\files-1.1\jetified-android-beacon-library-2.16.3.aar\3e695de137654ae843cfdd3b3650ad25\AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [org.altbeacon:android-beacon-library:2.16.3] C:\Users\Steven\.gradle\caches\transforms-1\files-1.1\jetified-android-beacon-library-2.16.3.aar\3e695de137654ae843cfdd3b3650ad25\AndroidManifest.xml:38:13-37
+	android:name
+		ADDED from [org.altbeacon:android-beacon-library:2.16.3] C:\Users\Steven\.gradle\caches\transforms-1\files-1.1\jetified-android-beacon-library-2.16.3.aar\3e695de137654ae843cfdd3b3650ad25\AndroidManifest.xml:36:13-70
+service#org.altbeacon.beacon.service.ScanJob
+ADDED from [org.altbeacon:android-beacon-library:2.16.3] C:\Users\Steven\.gradle\caches\transforms-1\files-1.1\jetified-android-beacon-library-2.16.3.aar\3e695de137654ae843cfdd3b3650ad25\AndroidManifest.xml:39:9-48:19
+	android:permission
+		ADDED from [org.altbeacon:android-beacon-library:2.16.3] C:\Users\Steven\.gradle\caches\transforms-1\files-1.1\jetified-android-beacon-library-2.16.3.aar\3e695de137654ae843cfdd3b3650ad25\AndroidManifest.xml:41:13-69
+	android:name
+		ADDED from [org.altbeacon:android-beacon-library:2.16.3] C:\Users\Steven\.gradle\caches\transforms-1\files-1.1\jetified-android-beacon-library-2.16.3.aar\3e695de137654ae843cfdd3b3650ad25\AndroidManifest.xml:40:13-64
+meta-data#immediateScanJobId
+ADDED from [org.altbeacon:android-beacon-library:2.16.3] C:\Users\Steven\.gradle\caches\transforms-1\files-1.1\jetified-android-beacon-library-2.16.3.aar\3e695de137654ae843cfdd3b3650ad25\AndroidManifest.xml:42:13-44:45
+	android:value
+		ADDED from [org.altbeacon:android-beacon-library:2.16.3] C:\Users\Steven\.gradle\caches\transforms-1\files-1.1\jetified-android-beacon-library-2.16.3.aar\3e695de137654ae843cfdd3b3650ad25\AndroidManifest.xml:44:17-42
+	android:name
+		ADDED from [org.altbeacon:android-beacon-library:2.16.3] C:\Users\Steven\.gradle\caches\transforms-1\files-1.1\jetified-android-beacon-library-2.16.3.aar\3e695de137654ae843cfdd3b3650ad25\AndroidManifest.xml:43:17-50
+meta-data#periodicScanJobId
+ADDED from [org.altbeacon:android-beacon-library:2.16.3] C:\Users\Steven\.gradle\caches\transforms-1\files-1.1\jetified-android-beacon-library-2.16.3.aar\3e695de137654ae843cfdd3b3650ad25\AndroidManifest.xml:45:13-47:45
+	android:value
+		ADDED from [org.altbeacon:android-beacon-library:2.16.3] C:\Users\Steven\.gradle\caches\transforms-1\files-1.1\jetified-android-beacon-library-2.16.3.aar\3e695de137654ae843cfdd3b3650ad25\AndroidManifest.xml:47:17-42
+	android:name
+		ADDED from [org.altbeacon:android-beacon-library:2.16.3] C:\Users\Steven\.gradle\caches\transforms-1\files-1.1\jetified-android-beacon-library-2.16.3.aar\3e695de137654ae843cfdd3b3650ad25\AndroidManifest.xml:46:17-49
+service#org.altbeacon.bluetooth.BluetoothTestJob
+ADDED from [org.altbeacon:android-beacon-library:2.16.3] C:\Users\Steven\.gradle\caches\transforms-1\files-1.1\jetified-android-beacon-library-2.16.3.aar\3e695de137654ae843cfdd3b3650ad25\AndroidManifest.xml:49:9-55:19
+	android:permission
+		ADDED from [org.altbeacon:android-beacon-library:2.16.3] C:\Users\Steven\.gradle\caches\transforms-1\files-1.1\jetified-android-beacon-library-2.16.3.aar\3e695de137654ae843cfdd3b3650ad25\AndroidManifest.xml:51:13-69
+	android:name
+		ADDED from [org.altbeacon:android-beacon-library:2.16.3] C:\Users\Steven\.gradle\caches\transforms-1\files-1.1\jetified-android-beacon-library-2.16.3.aar\3e695de137654ae843cfdd3b3650ad25\AndroidManifest.xml:50:13-68
+meta-data#jobId
+ADDED from [org.altbeacon:android-beacon-library:2.16.3] C:\Users\Steven\.gradle\caches\transforms-1\files-1.1\jetified-android-beacon-library-2.16.3.aar\3e695de137654ae843cfdd3b3650ad25\AndroidManifest.xml:52:13-54:46
+	android:value
+		ADDED from [org.altbeacon:android-beacon-library:2.16.3] C:\Users\Steven\.gradle\caches\transforms-1\files-1.1\jetified-android-beacon-library-2.16.3.aar\3e695de137654ae843cfdd3b3650ad25\AndroidManifest.xml:54:17-43
+	android:name
+		ADDED from [org.altbeacon:android-beacon-library:2.16.3] C:\Users\Steven\.gradle\caches\transforms-1\files-1.1\jetified-android-beacon-library-2.16.3.aar\3e695de137654ae843cfdd3b3650ad25\AndroidManifest.xml:53:17-37

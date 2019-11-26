@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'screens/home/home.dart';
+import 'screens/home/Result.dart';
 
 class App extends StatelessWidget
 {
@@ -7,7 +7,7 @@ class App extends StatelessWidget
   Widget build(BuildContext context)
   {
     return MaterialApp(
-      home: home(),
+      home: Result(),
     );
   }
 }
